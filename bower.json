@@ -13,11 +13,6 @@
     "web"
   ],
   "homepage": "http://getbootstrap.com",
-  "main": [
-    "less/*",
-    "fonts/*",
-    "dist/*"
-  ],
   "ignore": [
     ".*",
     "_config.yml",
